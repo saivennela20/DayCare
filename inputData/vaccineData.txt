@@ -1,0 +1,5 @@
+1,TB,true,1,2
+2,COVID,false,2,2
+4,STD,false,3,3
+5,rasdf,false,4,3
+4,COVISHEILD,false,3,2

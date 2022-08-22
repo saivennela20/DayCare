@@ -1,0 +1,12 @@
+kim,figgy,9875332341,75 saint street,6,2000,2
+keerti,rama,1234567890,45 riverside,23,2500,1
+kartik,kylie,0987654321,12 jamaica plain,45,2750,3
+kishore,laxhmi,1049587236,89 parkdrive,26,2600,4
+aman,priya,2749384756,58 longwood street,8,2550,5
+snehal,pratik,938426486,34 boylston street,13,2450,6
+nikita,rohit,2817304857,58 queensberry,9,2560,7
+reva,shyam,2749375847,23 tremont street,10,2700,8
+preeti,ram,2837469103,92 kale street,34,2800,9
+kale,ema,8594736251,23 smith street,23,2900,10
+updated Name,fafasdfasdf,23423541234,qefgadfg qertqert,23,2323,14
+fasdfasd,afsdfasdf,245234234,asjkdfhasdf,23,4234,54
